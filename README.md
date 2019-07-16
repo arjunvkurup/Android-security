@@ -7,7 +7,19 @@ A curated list of resources to study Android security for a beginner
 
 ---
 ## <a name="week1"></a>Week 1
-* Decompile an APK file: 
+* Decompile an APK file: [ApkTool](#tools)
+* Understanding the direcctory structure
+
+    [codepath](https://guides.codepath.com/android/Android-Directory-Structure)
+
+    [howtodoinjava](https://howtodoinjava.com/android/android-tutorial-android-project-structure-files-and-resources/)
+
+* Working of android(Internal)
+    [Addictivetips](https://www.addictivetips.com/mobile/android-partitions-explained-boot-system-recovery-data-cache-misc/)
+
+    [Android](https://source.android.com/devices/bootloader/partitions-images)
+
+    [Book](http://newandroidbook.com/AIvI-M-RL1.pdf)
 
 
 ## <a name="tools"></a>Tools
