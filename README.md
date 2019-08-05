@@ -8,6 +8,7 @@ A curated list of resources to study Android security for a beginner
 4. [Week 4](#week4)
 5. [Week 5](#week5)
 6. [Week 6](#week6)
+7. [Extra Stuff](#extra)
 
 ---
 ## <a name="week1"></a>Week 1
@@ -36,11 +37,11 @@ A curated list of resources to study Android security for a beginner
 		> Decompile the generated .classes file with [Java decompiler](http://java-decompiler.github.io/)
 
 * 	Permissions (use apktools and open AndroidManifest.xml)
-		[Android Developer]https://developer.android.com/guide/topics/permissions/overview#normal-dangerous)
+		[Android Developer](https://developer.android.com/guide/topics/permissions/overview#normal-dangerous)
 
 ## <a name="week4"></a>Week 4
 * 	Understanding Android OS
-		[Android Application security]https://manifestsecurity.com/android-application-security-part-2/)
+		[Android Application security](https://manifestsecurity.com/android-application-security-part-2/)
 
 * 	Android Application fundamentals
 		[Android application security](https://manifestsecurity.com/android-application-security-part-3/)
@@ -58,7 +59,7 @@ A curated list of resources to study Android security for a beginner
 		[Vuln](https://manifestsecurity.com/android-application-security-part-8/)
 
 * Absence of binary protection
-	[Vuln]https://manifestsecurity.com/android-application-security-part-9/)
+	[Vuln](https://manifestsecurity.com/android-application-security-part-9/)
 
 ## <a name="week6"></a>Week 6
 * 	Insufficient protection of communication channel
@@ -82,3 +83,11 @@ A curated list of resources to study Android security for a beginner
 
 * 	Unintented Data leakage
 		[Manifestsecurity](https://manifestsecurity.com/android-application-security-part-11/)
+
+
+## <a name="extra"></a>Extra Reference and resources
+
+* [Appsec Wiki](https://appsecwiki.com/#/README)
+* [Manifest Security](https://manifestsecurity.com/)
+* [Android security Awesome](https://github.com/ashishb/android-security-awesome)
+
