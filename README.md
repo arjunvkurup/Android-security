@@ -92,6 +92,7 @@ A curated list of resources to study Android security for a beginner
 * [Manifest Security](https://manifestsecurity.com/)
 * [Android security Awesome](https://github.com/ashishb/android-security-awesome)
 * [OWASP mobile testing guide](https://github.com/OWASP/owasp-mstg)
+* [Android sec reference](https://github.com/doridori/Android-Security-Reference)
 ## <a name="tools"></a>Tools
 
 * [Quark](https://github.com/linkedin/qark/)
