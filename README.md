@@ -9,6 +9,7 @@ A curated list of resources to study Android security for a beginner
 5. [Week 5](#week5)
 6. [Week 6](#week6)
 7. [Extra Stuff](#extra)
+8. [Tools](#tools)
 
 ---
 ## <a name="week1"></a>Week 1
@@ -90,4 +91,8 @@ A curated list of resources to study Android security for a beginner
 * [Appsec Wiki](https://appsecwiki.com/#/README)
 * [Manifest Security](https://manifestsecurity.com/)
 * [Android security Awesome](https://github.com/ashishb/android-security-awesome)
+
+## <a name="tools"></a>Tools
+
+* [Quark](https://github.com/linkedin/qark/)
 
