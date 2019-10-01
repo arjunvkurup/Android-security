@@ -95,4 +95,4 @@ A curated list of resources to study Android security for a beginner
 ## <a name="tools"></a>Tools
 
 * [Quark](https://github.com/linkedin/qark/)
-
+* [Frida](https://www.frida.re/)
