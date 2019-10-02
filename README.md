@@ -94,6 +94,7 @@ A curated list of resources to study Android security for a beginner
 * [OWASP mobile testing guide](https://github.com/OWASP/owasp-mstg)
 * [Android sec reference](https://github.com/doridori/Android-Security-Reference)
 * [Android Lab](https://github.com/sh4hin/Androl4b)
+* [Android's official vulnerability disclosure](https://source.android.com/security/bulletin/)
 
 ## <a name="tools"></a>Tools
 
