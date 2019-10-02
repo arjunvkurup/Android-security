@@ -99,3 +99,4 @@ A curated list of resources to study Android security for a beginner
 
 * [Quark](https://github.com/linkedin/qark/)
 * [Frida](https://www.frida.re/)
+* [Radare2 - Reversing](https://github.com/radareorg/radare2)
