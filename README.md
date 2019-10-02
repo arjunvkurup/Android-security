@@ -95,6 +95,7 @@ A curated list of resources to study Android security for a beginner
 * [Android sec reference](https://github.com/doridori/Android-Security-Reference)
 * [Android Lab](https://github.com/sh4hin/Androl4b)
 * [Android's official vulnerability disclosure](https://source.android.com/security/bulletin/)
+* [Exploits from Exploit-DB](https://www.exploit-db.com/search?platform=android)
 
 ## <a name="tools"></a>Tools
 
