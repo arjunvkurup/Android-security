@@ -106,3 +106,4 @@ A curated list of resources to study Android security for a beginner
 * [APKAnalyzer](https://github.com/sonyxperiadev/ApkAnalyser)
 * [Apktool](https://ibotpeaches.github.io/Apktool/)
 * [Android Framework for Exploitation](https://github.com/appknox/AFE)
+* [Dwarf - RE](https://github.com/iGio90/Dwarf)
