@@ -74,7 +74,7 @@ A curated list of resources to study Android security for a beginner
 
 ## <a name="week7"></a>Week 7
 
-* 	[Vuln] Weak Cryptography
+* 	[Vuln] Weak Cryptography.
 		[Mobile-security.gitbook.io](https://mobile-security.gitbook.io/mobile-security-testing-guide/general-mobile-app-testing-guide/0x04g-testing-cryptography)
 		[Manifestsecurity](https://manifestsecurity.com/android-application-security-part-13/)
 
