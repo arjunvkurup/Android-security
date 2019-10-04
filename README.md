@@ -47,7 +47,7 @@ A curated list of resources to study Android security for a beginner
 * 	Android Application fundamentals
 		[Android application security](https://manifestsecurity.com/android-application-security-part-3/)
 
-*  	Introduction to adb, apktool, dex2jar and jd-gui 
+*  	Introduction to adb, apktool, dex2jar and jd-gui
 		[Android application security](https://manifestsecurity.com/android-application-security-part-3/)
 
 ## <a name="week5"></a>Week 5
@@ -105,3 +105,5 @@ A curated list of resources to study Android security for a beginner
 * [Virus Total](https://www.virustotal.com/)
 * [APKAnalyzer](https://github.com/sonyxperiadev/ApkAnalyser)
 * [Apktool](https://ibotpeaches.github.io/Apktool/)
+* [Android Framework for Exploitation](https://github.com/appknox/AFE)
+* [Dwarf - RE](https://github.com/iGio90/Dwarf)
