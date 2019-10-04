@@ -69,7 +69,7 @@ A curated list of resources to study Android security for a beginner
 
 * 	Developer Backdoor Hard coded credentials :D.
 
-* 	Testing Authenticatio mechanism
+* 	Testing Authenticatio mechanism.
 		[Vuln](https://manifestsecurity.com/android-application-security-part-12/)
 
 ## <a name="week7"></a>Week 7
