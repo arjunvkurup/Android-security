@@ -99,6 +99,7 @@ A curated list of resources to study Android security for a beginner
 * [Azeria-labs Assembly basics ARM](https://azeria-labs.com/writing-arm-assembly-part-1/)
 * [Azeria-labs Online Assembler ARM](https://azeria-labs.com/azm/)
 * [Azeria-labs ARM exploitation](https://azeria-labs.com/writing-arm-shellcode/)
+* [Azeria-labs Emulator Raspberry pi](https://azeria-labs.com/emulate-raspberry-pi-with-qemu/)
 
 
 ## <a name="tools"></a>Tools
