@@ -96,6 +96,7 @@ A curated list of resources to study Android security for a beginner
 * [Android Lab](https://github.com/sh4hin/Androl4b)
 * [Android's official vulnerability disclosure](https://source.android.com/security/bulletin/)
 * [Exploits from Exploit-DB](https://www.exploit-db.com/search?platform=android)
+* [Azeria-labs Assembly basics ARM](https://azeria-labs.com/writing-arm-assembly-part-1/)
 
 ## <a name="tools"></a>Tools
 
