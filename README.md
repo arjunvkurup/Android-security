@@ -98,6 +98,7 @@ A curated list of resources to study Android security for a beginner
 * [Exploits from Exploit-DB](https://www.exploit-db.com/search?platform=android)
 * [Azeria-labs Assembly basics ARM](https://azeria-labs.com/writing-arm-assembly-part-1/)
 * [Azeria-labs Online Assembler ARM](https://azeria-labs.com/azm/)
+* [Azeria-labs ARM exploitation](https://azeria-labs.com/writing-arm-shellcode/)
 
 
 ## <a name="tools"></a>Tools
