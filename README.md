@@ -112,3 +112,5 @@ A curated list of resources to study Android security for a beginner
 * [Apktool](https://ibotpeaches.github.io/Apktool/)
 * [Android Framework for Exploitation](https://github.com/appknox/AFE)
 * [Dwarf - RE](https://github.com/iGio90/Dwarf)
+* [Ghidra](https://ghidra-sre.org/)
+* [Gdb](https://www.gnu.org/software/gdb/)
